@@ -1,5 +1,5 @@
 /*
-The first program where programmers learn or work with new languages.
+Simple hello world program with some other stuff.
 */
 
 #include <stdio.h>
